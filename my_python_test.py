@@ -6,3 +6,4 @@ y = x**2 + x*3 +5
 
 plt.figure()
 plt.plot(x,y)
+plt.show()
