@@ -7,3 +7,6 @@ y = x**3 + x**2 + 5
 plt.figure()
 plt.plot(x,y)
 plt.show()
+
+plt.figure()
+plt.semilogy(x,y)
